@@ -11,3 +11,4 @@
 **/wandb/**
 .env
 *.pth
+.ipynb_checkpoints
