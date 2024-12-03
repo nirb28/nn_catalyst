@@ -13,4 +13,5 @@
 *.pth
 .ipynb_checkpoints
 lightning_logs
-**/checkpoints/**
+#**/checkpoints/**
+**/__pycache__/**
