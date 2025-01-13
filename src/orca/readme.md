@@ -1,0 +1,1 @@
+orca inputfile.inp > output.out &
