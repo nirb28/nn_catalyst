@@ -1,0 +1,7 @@
+! CCSD def2-SVP
+# CCSD is the method, def2-SVP is the basis set.
+
+* xyz 0 1
+H 0.0 0.0 0.0
+H 0.0 0.0 1.0
+*
