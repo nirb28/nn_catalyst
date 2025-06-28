@@ -7,7 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 .idea/*
-*.csv
 **/wandb/**
 .env
 *.pth
@@ -15,3 +14,4 @@
 lightning_logs
 #**/checkpoints/**
 **/__pycache__/**
+data/Redox.zip
